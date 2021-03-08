@@ -1,2 +1,2 @@
-# curso-Rest-API-com-Spring-Algaworks
-Implementação do curso de Rest Api com Spring
+# curso-Rest-API-com-Spring-Java-=Algaworks
+Implementação do curso de Rest Api com Spring e java
